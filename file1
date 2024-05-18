@@ -1,6 +1,7 @@
 sample file1 line 1 
 sample file line 2
 $$
-12345
+123456
+conflict line
 new line for fix
 fix completed!! Great!!
